@@ -1,0 +1,8 @@
+pandas
+matplotlib
+torch 
+torchvision
+onnx 
+onnxruntime
+onnxruntime-gpu
+ultralytics
